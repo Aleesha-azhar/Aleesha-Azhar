@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Aleesha 👋
 
-<!--
-**Aleesha-azhar/Aleesha-Azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Engineer (React.js | Next.js | MERN Stack)  
+🚀 3.5+ years of experience building scalable web apps  
+🎯 Focused on UI performance, reusable components & API integration  
 
-Here are some ideas to get you started:
+⚠️ Most of my professional work is on a private company GitHub (not publicly visible)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- React.js, Next.js
+- JavaScript, TypeScript
+- Node.js (basic backend)
+- Material UI, Tailwind CSS
+- Chart.js
+
+---
+
+## 💼 Professional Experience
+- Built production-level React applications
+- Developed reusable UI components
+- Integrated REST APIs
+- Worked with authentication (Clerk)
+- Optimized performance and UI responsiveness
+
+---
+
+## 📌 Featured Projects
+- ScoopRank (React + Django + Clerk)
+- Media Coverage Dashboard (Chart.js)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aleesha-azhar/
