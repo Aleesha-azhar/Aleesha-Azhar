@@ -31,5 +31,5 @@ Material UI • Tailwind CSS
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/aleesha-azhar/
-Email: aleesha.azhar01@gmail.com
+* LinkedIn: https://www.linkedin.com/in/aleesha-azhar/
+* Email: aleesha.azhar01@gmail.com
