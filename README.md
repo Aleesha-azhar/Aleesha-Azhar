@@ -1,32 +1,26 @@
-# Hi, I'm Aleesha 👋
+# Hi, I'm Aleesha Azhar
 
-💻 Frontend Engineer (React.js | Next.js | MERN Stack)  
-🚀 3.5+ years of experience building scalable web apps  
-🎯 Focused on UI performance, reusable components & API integration  
+Frontend Engineer specializing in React.js and Next.js, with 3.5+ years of experience building scalable web applications across ERP systems and eCommerce platforms.
 
-⚠️ Most of my professional work is on a private company GitHub (not publicly visible)
-
----
-
-## 🔧 Tech Stack
-- React.js, Next.js
-- JavaScript, TypeScript
-- Api Integration
-- UI/Ux 
-- Node.js (basic backend)
+## Tech Stack
+- React.js, Next.js, JavaScript
+- Node.js, Express.js (MERN Stack)
+- REST APIs, GraphQL
 - Material UI, Tailwind CSS
-- Chart.js
 
----
+## What I Do
+- Build scalable and high-performance frontend applications
+- Translate complex business workflows into clean UI systems
+- Integrate APIs and optimize application performance
 
-## 💼 Professional Experience
-- Built production-level React applications
-- Developed reusable UI components
-- Integrated REST APIs
-- Worked with authentication (Clerk)
-- Optimized performance and UI responsiveness
+## Featured Work
+- Shipping ERP System (React, Next.js, APIs, Dashboards)
+- eCommerce Platform (MERN, Shopify, GraphQL)
+- Authentication System (Clerk + Django integration)
 
----
+## Currently
+- Open to remote frontend opportunities
+- Actively improving system design and performance optimization skills
 
-## 📫 Connect with me
+## Connect
 - LinkedIn: https://www.linkedin.com/in/aleesha-azhar/
