@@ -11,6 +11,8 @@
 ## 🔧 Tech Stack
 - React.js, Next.js
 - JavaScript, TypeScript
+- Api Integration
+- UI/Ux 
 - Node.js (basic backend)
 - Material UI, Tailwind CSS
 - Chart.js
@@ -23,12 +25,6 @@
 - Integrated REST APIs
 - Worked with authentication (Clerk)
 - Optimized performance and UI responsiveness
-
----
-
-## 📌 Featured Projects
-- ScoopRank (React + Django + Clerk)
-- Media Coverage Dashboard (Chart.js)
 
 ---
 
